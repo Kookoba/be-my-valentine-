@@ -1,11 +1,11 @@
 const messages = [
-    "Are you sure?",
-    "Really sure??",
+    "Betul ni?",
+    "Srs la ayim??",
     "Are you positive?",
-    "Pookie please...",
+    "Cayang please...",
     "Just think about it!",
     "If you say no, I will be really sad...",
-    "I will be very sad...",
+    "Ipan Cedih...",
     "I will be very very very sad...",
     "Ok fine, I will stop asking...",
     "Just kidding, say yes please! ❤️"
