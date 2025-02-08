@@ -1,14 +1,14 @@
 const messages = [
-    "Betul ni?",
+    "Betul ni Cayang?",
     "Srs la ayim??",
     "Are you positive?",
     "Cayang please...",
-    "Just think about it!",
+    "Fikir Betul-Betul cayangg!",
     "If you say no, I will be really sad...",
     "Ipan Cedih...",
     "I will be very very very sad...",
     "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "HEHEEH lawak je, say yes please! ❤️"
 ];
 
 let messageIndex = 0;
